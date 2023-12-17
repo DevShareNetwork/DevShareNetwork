@@ -38,7 +38,7 @@ To discuss your project or learn more about our services, contact us:
 
 - **Email**: contact@devsharenetwork.com
 - **Discord**: https://discord.gg/nzW85x9kq4
-- **Website**: COMING SOON....
+- **Website**: https://devsharenetwork.rf.gd/
 
 Let DevShare Network be your partner in technology and innovation!
 
