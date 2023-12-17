@@ -36,7 +36,7 @@ Welcome to **DevShare Network**, a progressive and innovative software developme
 ## Get in Touch
 To discuss your project or learn more about our services, contact us:
 
-- **Email**: contact@devsharenetwork@gmail.com
+- **Email**: contact.devsharenetwork@gmail.com
 - **Discord**: https://discord.gg/nzW85x9kq4
 - **Website**: https://devsharenetwork.rf.gd/
 
