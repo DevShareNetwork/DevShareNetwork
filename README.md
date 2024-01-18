@@ -17,9 +17,9 @@ Welcome to **DevShare Network**, a progressive and innovative software developme
 - **Custom Scripting**: Enhancing GTA V gameplay through unique and immersive FiveM scripts.
 - **Gameplay Experience**: Focusing on modifications that improve player interaction and server performance.
 
-### Minecraft Plugins
-- **Plugin Development**: Designing custom Minecraft plugins to enhance gameplay and server functionality.
-- **Modifications & Customization**: Tailoring existing plugins to meet the specific needs of your server.
+### Discord Bots
+- **Bot Development**: Developing custom Discord bots to enhance interaction and functionality on your server.
+- **Modifications & Customization**: Tailoring existing bots to meet the specific needs of your server.
 
 ## Our Programming Expertise
 - **HTML, CSS, and JavaScript**: For dynamic and responsive web solutions.
